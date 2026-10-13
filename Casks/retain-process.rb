@@ -1,6 +1,6 @@
 cask "retain-process" do
-  version "0.1.0"
-  sha256 "0b9a96407be4236193f7e17a56f9b48503b39a49ef5d30d92e9fb8c837854557"
+  version "1.0.0"
+  sha256 "eb244cee3168089805392aba6d415e2009eb752386c10970f1a386378349b6c1"
 
   url "https://github.com/foo-tec/homebrew-tap/releases/download/retain-process-v#{version}/RetainProcess-#{version}.dmg"
   name "RetainProcess"
@@ -11,6 +11,7 @@ cask "retain-process" do
   depends_on macos: :ventura
 
   app "RetainProcess.app"
+  binary "#{appdir}/RetainProcess.app/Contents/MacOS/retain-process"
 
   uninstall quit: "dev.foo.RetainProcess"
 
