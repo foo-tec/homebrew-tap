@@ -16,7 +16,7 @@ RetainProcess を入れると、CLI の `retain-process` も PATH に入る（`r
 |---|---|
 | `retain-process` | RetainProcess — 開発用のプロセスをメニューバーから起動・停止し、CPU・メモリとログを見るユーティリティ（macOS 13 以降） |
 
-配布物（公証済みの DMG）はこのリポジトリの Releases に置く。タグは `<cask 名>-v<version>`（例: `retain-process-v1.0.0`）。
+配布物（公証済みの DMG）はこのリポジトリの Releases に置く。タグは `<cask 名>-v<version>`（例: `retain-process-v1.0.1`）。
 
 ## 更新の手順
 
