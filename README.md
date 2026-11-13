@@ -23,7 +23,7 @@ RetainProcess を入れると、CLI の `retain-process` も PATH に入る（`r
 
 MonoFlick Companion は以前 `yoshinag/monoflick-companion-for-macos` の tap で配っていた。その tap から入れた人は、`brew update` で自動的にこの tap へ移る。
 
-配布物（公証済みの DMG）はこのリポジトリの Releases に置く。タグは `<cask 名>-v<version>`（例: `retain-process-v1.0.1`）。
+配布物（公証済みの DMG）はこのリポジトリの Releases に置く。タグは `<cask 名>-v<version>`（例: `retain-process-v1.0.1`）。ただし MonoFlick Companion の DMG は [foo-tec/monoflick-releases](https://github.com/foo-tec/monoflick-releases) の Releases に置く（タグは `v<version>`）。
 
 ## 更新の手順
 
