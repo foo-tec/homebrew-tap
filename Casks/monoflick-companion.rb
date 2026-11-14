@@ -1,6 +1,6 @@
 cask "monoflick-companion" do
-  version "1.3.0"
-  sha256 "e10e1d3c050a598da8eb58cd721e108b619af2bf61dd2dd6595f1e5181715c34"
+  version "1.3.1"
+  sha256 "f90f20a1e1b0292803238a928b1d644c6f7d241ee88ebb94ae622a0fd4963b0c"
 
   url "https://github.com/foo-tec/monoflick-releases/releases/download/v#{version}/MonoFlick-Companion-#{version}.dmg"
   name "MonoFlick Companion"
