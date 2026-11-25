@@ -1,6 +1,6 @@
 cask "retain-process" do
-  version "1.0.2"
-  sha256 "a29bff1d3a56b5c17666f569fbcbbf87128278830ba36e70172ee564ab9a0599"
+  version "1.1.0"
+  sha256 "87995ea007763492f595715f8405a1a47bbe25e3e0dab5ed15786f4ef5b7a194"
 
   url "https://github.com/foo-tec/homebrew-tap/releases/download/retain-process-v#{version}/RetainProcess-#{version}.dmg"
   name "RetainProcess"
